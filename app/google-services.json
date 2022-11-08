@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900294787082",
+    "project_id": "acquired-talent-349123",
+    "storage_bucket": "acquired-talent-349123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900294787082:android:03d41765682502bbc89ff3",
+        "android_client_info": {
+          "package_name": "com.colin.navlab1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900294787082-8aml6asabkir9j0pim4skjmg4k2kjhlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDLZmLj0jw6t_n9EHTQpSOSSOvwSzU_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900294787082-8aml6asabkir9j0pim4skjmg4k2kjhlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
